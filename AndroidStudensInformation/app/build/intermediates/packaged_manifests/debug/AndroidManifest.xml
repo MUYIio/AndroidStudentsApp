@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="com.example.database_demo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="32" />
+
+    <dist:module dist:instant="true" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEM" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:icon="@mipmap/school_new"
+        android:label="PCCTBU"
+        android:roundIcon="@mipmap/school_new"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/NoActivityFULLscreen" >
+        <activity android:name="com.example.database_demo.teacher.TeacherAboutMe" />
+        <activity android:name="com.example.database_demo.teacher.StudentChooseCourseInfo" />
+        <activity android:name="com.example.database_demo.administrator.ChangeAccountAdmin" />
+        <activity android:name="com.example.database_demo.administrator.Addadmin" />
+        <activity android:name="com.example.database_demo.administrator.Container" />
+        <activity android:name="com.example.database_demo.student.SubmitMessage" />
+        <activity android:name="com.example.database_demo.administrator.ChangeCourseSet" />
+        <activity android:name="com.example.database_demo.teacher.ChangeStudentScore" />
+        <activity android:name="com.example.database_demo.administrator.ChangeAccountTeacher" />
+        <activity android:name="com.example.database_demo.administrator.DeleteChangeTeacher" />
+        <activity android:name="com.example.database_demo.administrator.Addteacher" />
+        <activity android:name="com.example.database_demo.teacher.ActivityTeacher" />
+        <activity android:name="com.example.database_demo.student.AboutMe" />
+        <activity android:name="com.example.database_demo.student.ChooseCourse" />
+        <activity android:name="com.example.database_demo.student.ActivityStudent" />
+        <activity android:name="com.example.database_demo.start_load.PasswordChange" />
+        <activity android:name="com.example.database_demo.administrator.ChangeAccount" />
+        <activity android:name="com.example.database_demo.start_load.Load" />
+        <activity
+            android:name="com.example.database_demo.start_load.StartActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.database_demo.administrator.Add" />
+        <activity android:name="com.example.database_demo.administrator.DeleteChange" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.example.database_demo.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+    </application>
+
+</manifest>

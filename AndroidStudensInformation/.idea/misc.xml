@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/AndroidStudensInformation/app/src/main/res/layout/activity_load.xml" value="0.25364583333333335" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/AndroidStudensInformation/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/drawable-v24/shape1.xml" value="0.183" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/drawable-v24/shape_new.xml" value="0.183" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_about_me.xml" value="0.23731884057971014" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_add.xml" value="0.23731884057971014" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_add_admin.xml" value="0.23731884057971014" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_add_teacher.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_change_account.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_change_account_teacher.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_change_course_set.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_change_student_score.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_choose_course.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_container.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_delete_change.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_delete_change_teacher.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_load.xml" value="0.23731884057971014" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_main.xml" value="0.23731884057971014" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_password_change.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_start.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_student.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_student_choose_course_info.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_submit_message.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_teacher.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/activity_teacher_about_me.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/change_account_admin.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/choose_result.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/common_fragment.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/course_nocheckbox.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/headlayout.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/headlayout_teacher.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/list__item_teacher.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/list_item.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/list_item_account.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/list_item_allcourse.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/list_item_course.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/list_item_course_information.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/list_item_jidian.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/list_item_message.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/list_item_message_t_look.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/list_item_teacher_mycourse.xml" value="0.21041666666666667" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/student_fragment.xml" value="0.23731884057971014" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/layout/teacher_fragment.xml" value="0.23731884057971014" />
+        <entry key="..\:/Program Files (x86)/Android/AndroidProject/Database/app/src/main/res/menu/common_toolbar_menu.xml" value="0.1765625" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

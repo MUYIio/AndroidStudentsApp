@@ -1,0 +1,454 @@
+[
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_teacher_about_me.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_teacher_about_me.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable_a.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable\\a.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_teacher.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_teacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_common_fragment.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\common_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable_hao.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable\\hao.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable_add_course1.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable\\add_course1.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable-v24_a.jpg.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable-v24\\a.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable_cat.jpg.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable\\cat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_teacher_fragment.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\teacher_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable_me.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable\\me.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_timg2.jpg.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\timg2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_change_account.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_change_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\menu_teacher_toolbar_menu.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\menu\\teacher_toolbar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_start_new.jpg.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\start_new.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_red.jpg.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\red.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_change_student_score.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_change_student_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_headlayout.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\headlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable_xuankejieguo.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable\\xuankejieguo.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_delete_change_teacher.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_delete_change_teacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_liuyan_new.jpg.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\liuyan_new.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_add_admin.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_add_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_bishang.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\bishang.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable_guanliyuan.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable\\guanliyuan.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_school_new.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\school_new.png"
+    },
+    {
+        "merged": "com.example.database_demo.app-merged_res-21:/drawable-v24_a.jpg.flat",
+        "source": "com.example.database_demo.app-main-23:/drawable-v24/a.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_timg3.jpg.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\timg3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_list_item_teacher_mycourse.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\list_item_teacher_mycourse.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable-v24_shape_new.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable-v24\\shape_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_change_account_teacher.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_change_account_teacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_invisible.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\invisible.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_timg1.jpg.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\timg1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_list_item_account.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\list_item_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_student_icon.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\student_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_submit_message.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_submit_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_change_course_set.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_change_course_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_list_item_message.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\list_item_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable_chakanliuyan.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable\\chakanliuyan.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable_xuesheng.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable\\xuesheng.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_student.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_color.PNG.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\color.PNG"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_list__item_teacher.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\list__item_teacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_start.jpg.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\start.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_load_new.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\load_new.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_choose.jpg.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\choose.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_teacher.jpg.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\teacher.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_load.jpg.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\load.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable-v24_b2.jpg.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable-v24\\b2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_list_item_course_information.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\list_item_course_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable-v24_shape.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable-v24\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_about_me.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_about_me.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\menu_nav_menu_teacher.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\menu\\nav_menu_teacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_suo.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\suo.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable_jiaoshi.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable\\jiaoshi.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable-v24_invisible.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable-v24\\invisible.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable-v24_b1.jpg.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable-v24\\b1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_add_teacher.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_add_teacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_visible.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\visible.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_list_item_jidian.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\list_item_jidian.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_student.jpg.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\student.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_delete_change.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_delete_change.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_pink.jpg.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\pink.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable-v24_suo.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable-v24\\suo.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_student_choose_course_info.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_student_choose_course_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_add.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_teacher_icon.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\teacher_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_geren.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\geren.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_password_change.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_password_change.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable_add_course.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable\\add_course.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_list_item_message_t_look.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\list_item_message_t_look.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable-v24_shape1.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable-v24\\shape1.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_load.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_load.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\menu_student_toolbar_menu.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\menu\\student_toolbar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable_icon_changeaccount.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable\\icon_changeaccount.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_choose_course.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_choose_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\menu_common_toolbar_menu.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\menu\\common_toolbar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_dianhua.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\dianhua.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_change_account_admin.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\change_account_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable-v24_visible.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable-v24\\visible.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_start.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_student_fragment.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\student_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_choose_result.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\choose_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable_icon_student_liuyan.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable\\icon_student_liuyan.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable-v24_button_background.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable-v24\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_common_icon.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\common_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_headlayout_teacher.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\headlayout_teacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_activity_container.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\activity_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_list_item_allcourse.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\list_item_allcourse.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable_invis.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable\\invis.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_course_nocheckbox.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\course_nocheckbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_timg.jpg.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\timg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable_qiehuan.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable\\qiehuan.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_choosecourse.jpg.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\choosecourse.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\layout_list_item_course.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\layout\\list_item_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_blue.PNG.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\blue.PNG"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_zhengkai.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\zhengkai.png"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-xhdpi_black.jpg.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-xhdpi\\black.jpg"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-merged_res-21:\\drawable_qingchujilu.png.flat",
+        "source": "C:\\Users\\残废\\.gradle\\daemon\\7.3.3\\com.example.database_demo.app-main-23:\\drawable\\qingchujilu.png"
+    }
+]

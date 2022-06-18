@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.database_demo"
+    xmlns:dist="http://schemas.android.com/apk/distribution">
+
+    <dist:module dist:instant="true" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEM"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/school_new"
+        android:label="PCCTBU"
+        android:roundIcon="@mipmap/school_new"
+        android:supportsRtl="true"
+        android:theme="@style/NoActivityFULLscreen">
+        <activity android:name=".teacher.TeacherAboutMe"></activity>
+        <activity android:name=".teacher.StudentChooseCourseInfo" />
+        <activity android:name=".administrator.ChangeAccountAdmin" />
+        <activity android:name=".administrator.Addadmin" />
+        <activity android:name=".administrator.Container" />
+        <activity android:name=".student.SubmitMessage" />
+        <activity android:name=".administrator.ChangeCourseSet" />
+        <activity android:name=".teacher.ChangeStudentScore" />
+        <activity android:name=".administrator.ChangeAccountTeacher" />
+        <activity android:name=".administrator.DeleteChangeTeacher" />
+        <activity android:name=".administrator.Addteacher" />
+        <activity android:name=".teacher.ActivityTeacher" />
+        <activity android:name=".student.AboutMe" />
+        <activity android:name=".student.ChooseCourse" />
+        <activity android:name=".student.ActivityStudent"/>
+        <activity android:name=".start_load.PasswordChange" />
+        <activity android:name=".administrator.ChangeAccount" />
+        <activity android:name=".start_load.Load" />
+        <activity android:name=".start_load.StartActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".administrator.Add" />
+        <activity android:name=".administrator.DeleteChange" />
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.example.database_demo.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+
+    </application>
+
+</manifest>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#EEE1E1</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorfragment">#ECD8DF</color>
+    <color name="plum">#DDA0DD</color>
+    <string name="app_name">Database_demo</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="NoActivityFULLscreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">true</item>
+        
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>
